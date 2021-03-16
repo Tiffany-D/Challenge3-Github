@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font-size: 25px;
+}
+
+h2 {
+    text-align: center;
+    color: fuchsia;
+    font-size: 15px;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
